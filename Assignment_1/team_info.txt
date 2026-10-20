@@ -1,0 +1,29 @@
+========================================================================
+CPSC 473 & 673: Introduction to Data Mining - Fall 2026
+Assignment 1: Apriori Algorithm for Frequent Pattern Mining
+Team Member Information
+========================================================================
+
+Team Name:
+  too_much_data (Team 1)
+
+Course:
+  CPSC 473 / CPSC 673 - Introduction to Data Mining
+  Department of Computer Science
+  University of Northern British Columbia (UNBC)
+
+Team Members:
+  1. Name:       Vraj Shah
+     Student ID: 230162442
+     Email:      shahv@unbc.ca
+
+  2. Name:       [Insert Teammate Name if applicable]
+     Student ID: [Insert Teammate Student ID]
+     Email:      [Insert Teammate Email]
+
+Submission Archive Name:
+  CPSC473_a1_too_much_data.zip
+
+Bonus Mark Documentation:
+  bonus_mark_documentation_too_much_data.pdf
+========================================================================
