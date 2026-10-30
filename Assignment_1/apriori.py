@@ -220,8 +220,6 @@ def run_apriori(dataset_path, minsup_pct):
         return {}, minsup_cnt, num_trans
 
     L1_items = set(item[0] for item in L1)
-    # Load database filtered to frequent items
-    transactions = load_filtered_database(dataset_path, L1_items)
 
     all_fps = dict(L1)
     current_L = L1
@@ -234,6 +232,10 @@ def run_apriori(dataset_path, minsup_pct):
             break
 
         # Step 2: Database Scan to count candidate support
+        
+        # Load database filtered to frequent items
+        transactions = load_filtered_database(dataset_path, L1_items)
+
         cand_counts = scan_database_count_candidates(transactions, candidates, k)
 
         # Step 3: Filter candidates meeting minsup to form L_k

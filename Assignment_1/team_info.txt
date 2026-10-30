@@ -16,9 +16,18 @@ Team Members:
      Student ID: 230162442
      Email:      shahv@unbc.ca
 
-  2. Name:       [Insert Teammate Name if applicable]
-     Student ID: [Insert Teammate Student ID]
-     Email:      [Insert Teammate Email]
+  2. Name:       Logan White
+     Student ID: 230161077
+     Email:      lwhite@unbc.ca
+
+  3. Name:       Samprat Upadhyay
+     Student ID: 230159448
+     Email:      upadhyay@unbc.ca
+  
+  4. Name:       Fariha Tashpia
+     Student ID: 230157767
+     Email:      tashpia@unbc.ca
+  
 
 Submission Archive Name:
   CPSC473_a1_too_much_data.zip
