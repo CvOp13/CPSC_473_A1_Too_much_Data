@@ -5,8 +5,7 @@ Team Member Information
 ========================================================================
 
 Team Name:
-  too_much_data (Team 1)
-
+  too_much_data
 Course:
   CPSC 473 / CPSC 673 - Introduction to Data Mining
   Department of Computer Science

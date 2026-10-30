@@ -53,8 +53,8 @@ def parse_arguments():
             minsup_pct = float(raw_minsup[:-1])
         else:
             val = float(raw_minsup)
-            # If specified as a ratio <= 1.0 (e.g., 0.05 or 0.50), convert to percentage
-            if 0 < val <= 1.0:
+            # If specified as a decimal fraction strictly < 1.0 (e.g., 0.05, 0.50, 0.01), convert to percentage
+            if 0 < val < 1.0:
                 minsup_pct = val * 100.0
             else:
                 minsup_pct = val
