@@ -1,0 +1,38 @@
+========================================================================
+CPSC 473 & 673: Introduction to Data Mining - Fall 2026
+Assignment 2: FP-Growth Algorithm for Frequent Pattern Mining
+Team Member Information
+========================================================================
+
+Team Name:
+  too_much_data
+Course:
+  CPSC 473 / CPSC 673 - Introduction to Data Mining
+  Department of Computer Science
+  University of Northern British Columbia (UNBC)
+
+Team Members:
+  1. Name:       Vraj Shah
+     Student ID: 230162442
+     Email:      shahv@unbc.ca
+
+  2. Name:       Logan White
+     Student ID: 230161077
+     Email:      lwhite@unbc.ca
+
+  3. Name:       Samprat Upadhyay
+     Student ID: 230159448
+     Email:      upadhyay@unbc.ca
+
+  4. Name:       Fariha Tashpia
+     Student ID: 230157767
+     Email:      tashpia@unbc.ca
+
+
+Submission Archive Name:
+  CPSC473_a2_too_much_data.zip
+
+Bonus Mark Documentation:
+  bonus_mark_documentation_too_much_data.pdf
+========================================================================
+
